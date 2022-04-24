@@ -3,8 +3,6 @@
 
 - 🔭 Actualmente estoy trabajando en **Proyecto grupal-Henry**
 
-- 🌱 Me encuentro aprendiendo **Typescript**
-
 - 👨‍💻 Puedes ver todos mis proyectos en [https://github.com/agskbr?tab=repositories](https://github.com/agskbr?tab=repositories)
 
 - 💬 Puedes preguntarme sobre **Javascript | Dart | React | Flutter**
