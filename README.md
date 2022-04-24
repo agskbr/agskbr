@@ -7,7 +7,7 @@
 
 - 👨‍💻 Puedes ver todos mis proyectos en [https://github.com/agskbr?tab=repositories](https://github.com/agskbr?tab=repositories)
 
-- 💬 Ask me about **Javascript | Dart | React | Flutter**
+- 💬 Puedes preguntarme sobre **Javascript | Dart | React | Flutter**
 
 - 📫 Contacto **cabreraag01@gmail.com**
 
