@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Agustín</h1>
 <h3 align="center">Soy un Frontend Developer.</h3>
 
-- 🔭 Actualmente estoy trabajando en **Proyecto grupal Henry**
+- 🔭 Actualmente estoy trabajando en **Proyecto grupal-Henry**
 
 - 🌱 Me encuentro aprendiendo **Typescript**
 
