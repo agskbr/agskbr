@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Agustín</h1>
 <h3 align="center">Soy un Frontend Developer.</h3>
 
-<img align="center" height="200px" src="https://images.unsplash.com/photo-1546900703-cf06143d1239?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1150"/>
+<p align="center"><img align="center" height="200px" src="https://images.unsplash.com/photo-1546900703-cf06143d1239?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1150"/></p>
 
 - 👨‍💻 Puedes ver todos mis proyectos en [https://github.com/agskbr?tab=repositories](https://github.com/agskbr?tab=repositories)
 
