@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Agustín</h1>
 <h3 align="center">Soy un Frontend Developer.</h3>
 
-- 🔭 Actualmente estoy trabajando en **Proyecto grupal-Henry**
+
 
 - 👨‍💻 Puedes ver todos mis proyectos en [https://github.com/agskbr?tab=repositories](https://github.com/agskbr?tab=repositories)
 
