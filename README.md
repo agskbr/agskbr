@@ -7,8 +7,6 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=agskbr&langs_count=6&layout=compact&theme=github_dark&hide_border=true)]()
 
 
-- 👨‍💻 Puedes ver todos mis proyectos en [https://github.com/agskbr?tab=repositories](https://github.com/agskbr?tab=repositories)
-
 - 💬 Puedes preguntarme sobre **Javascript | Dart | React | Flutter**
 
 - 📫 Contacto **cabreraag01@gmail.com**
