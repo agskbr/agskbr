@@ -6,7 +6,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=agskbr&count_private=true&theme=github_dark&hide_border=true&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=agskbr&langs_count=6&layout=compact&theme=github_dark&hide_border=true)](
 
-- 📫 Contacto **cabreraag01@gmail.com**
+- 📫 Contact with me **cabreraag01@gmail.com**
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
