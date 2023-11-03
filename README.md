@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Agustín</h1>
-<h3 align="center">Soy un Frontend Developer.</h3>
+<h1 align="center">Hello 👋, I'm Agustín</h1>
+<h3 align="center">I am a fullstack web developer</h3>
 
 
 
