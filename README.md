@@ -4,7 +4,7 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=agskbr&count_private=true&theme=github_dark&hide_border=true&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=agskbr&langs_count=6&layout=compact&theme=github_dark&hide_border=true)](
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=agskbr&langs_count=6&layout=compact&theme=github_dark&hide_border=true)]()
 
 - 📫 Contact with me **cabreraag01@gmail.com**
 
